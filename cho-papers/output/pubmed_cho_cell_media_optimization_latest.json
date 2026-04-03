@@ -1,0 +1,1805 @@
+{
+  "search_term": "CHO cell media optimization",
+  "last_update": "2026-03-15T08:00:38.944205",
+  "total_count": 99,
+  "new_count": 1,
+  "papers": [
+    {
+      "pmid": "41825794",
+      "title": "Amino acid metabolism, demand and supply in Chinese Hamster ovary cell culture - A comprehensive literature review.",
+      "authors": [
+        "Yatipanthalawa BS",
+        "Lee YY",
+        "Gras SL",
+        "Martin GJO"
+      ],
+      "journal": "Biotechnology advances",
+      "pubdate": "2026 Mar 11",
+      "doi": "doi: 10.1016/j.biotechadv.2026.108866",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41825794/",
+      "fetch_date": "2026-03-15T08:00:38.940302"
+    },
+    {
+      "pmid": "41814514",
+      "title": "A practical framework for clone selection, media-feed screening, and upstream process parameter optimization for a mAb CHO cell culture process.",
+      "authors": [
+        "Shah S",
+        "Kumar D",
+        "Dhamdhere A",
+        "Devi S",
+        "Patekar S",
+        "Mahalingam V",
+        "Adhikary L",
+        "Chopda V"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2026 Mar 11",
+      "doi": "doi: 10.1002/btpr.88503",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41814514/",
+      "fetch_date": "2026-03-13T08:00:35.492995"
+    },
+    {
+      "pmid": "41647358",
+      "title": "Whole-genome DNA methylation analysis of Chinese hamster ovary cells undergoing media adaptation.",
+      "authors": [
+        "Roy S",
+        "Sandhu JK",
+        "Huang L",
+        "Wong A",
+        "Wan GX",
+        "Lyko F",
+        "Igwe EI",
+        "Böhl F"
+      ],
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "pubdate": "2026",
+      "doi": "doi: 10.3389/fbioe.2026.1716758",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41647358/",
+      "fetch_date": "2026-03-12T08:53:43.055878"
+    },
+    {
+      "pmid": "41462110",
+      "title": "Viable cell density as an indicator for dynamic feeding strategy in fed-batch and perfusion CHO cell culture.",
+      "authors": [
+        "Kikuchi T",
+        "Ohira S",
+        "Yamaguchi H"
+      ],
+      "journal": "Scientific reports",
+      "pubdate": "2025 Dec 29",
+      "doi": "doi: 10.1038/s41598-025-28316-8",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41462110/",
+      "fetch_date": "2026-03-12T08:53:43.055912"
+    },
+    {
+      "pmid": "41388975",
+      "title": "Multi-Omics Reveals Impact of Hypoxia on Lactate Metabolic Switch and Monoclonal Antibody Production in CHO Fed-Batch Cultivation.",
+      "authors": [
+        "Yin P",
+        "Li W",
+        "Zhao W",
+        "Guo M",
+        "Tong J"
+      ],
+      "journal": "Biotechnology journal",
+      "pubdate": "2025 Dec",
+      "doi": "doi: 10.1002/biot.70167",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41388975/",
+      "fetch_date": "2026-03-12T08:53:43.055924"
+    },
+    {
+      "pmid": "41388218",
+      "title": "Self-Driving Development of Perfusion Processes for Monoclonal Antibody Production.",
+      "authors": [
+        "Gadiyar CJ",
+        "Müller C",
+        "Vuillemin T",
+        "Bielser JM",
+        "Souquet J",
+        "Fagnani A",
+        "Sokolov M",
+        "von Stosch M",
+        "Feidl F",
+        "Butté A",
+        "Cruz Bournazou MN"
+      ],
+      "journal": "Biotechnology and bioengineering",
+      "pubdate": "2026 Feb",
+      "doi": "doi: 10.1002/bit.70093",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41388218/",
+      "fetch_date": "2026-03-12T08:53:43.055937"
+    },
+    {
+      "pmid": "41386853",
+      "title": "Influence of growth factors and different supplements on metabolic response and productivity of IgA-producing CHO cell lines.",
+      "authors": [
+        "Ping Y",
+        "Viktoriia T",
+        "Baohang L",
+        "Victoria A"
+      ],
+      "journal": "Journal, genetic engineering & biotechnology",
+      "pubdate": "2025 Dec",
+      "doi": "doi: 10.1016/j.jgeb.2025.100588",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41386853/",
+      "fetch_date": "2026-03-12T08:53:43.055945"
+    },
+    {
+      "pmid": "41359264",
+      "title": "Redefining media blending mathematically: a systematic approach for screening of medium components.",
+      "authors": [
+        "Kuroda H",
+        "Sorada K",
+        "Yamano-Adachi N",
+        "Omasa T"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "pubdate": "2025 Dec 8",
+      "doi": "doi: 10.1007/s00253-025-13594-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41359264/",
+      "fetch_date": "2026-03-12T08:53:43.055955"
+    },
+    {
+      "pmid": "41303404",
+      "title": "Moon Jellyfish Mucin and Collagen Attenuate Catabolic Activity in Chondrocytes but Show Limited Efficacy in an Osteoarthritis Rat Model.",
+      "authors": [
+        "Omura H",
+        "Toyoda E",
+        "Baba T",
+        "Uchiyama R",
+        "Watanabe M",
+        "Sato M"
+      ],
+      "journal": "International journal of molecular sciences",
+      "pubdate": "2025 Nov 11",
+      "doi": "doi: 10.3390/ijms262210920",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41303404/",
+      "fetch_date": "2026-03-12T08:53:43.055966"
+    },
+    {
+      "pmid": "41261329",
+      "title": "Cell Engineering for Increasing Production of Recombinant Proteins in Mammalian Cells.",
+      "authors": [
+        "Zhang X",
+        "Shen Y",
+        "Guo Z",
+        "Wang Y",
+        "Wang X",
+        "Wang T"
+      ],
+      "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+      "pubdate": "2026 Jan",
+      "doi": "doi: 10.1007/s40259-025-00753-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41261329/",
+      "fetch_date": "2026-03-12T08:53:43.055975"
+    },
+    {
+      "pmid": "41219927",
+      "title": "Thrombomodulin is essential for recombinant Fc-fusion protein production in Chinese hamster ovary cells via multiple signaling pathways.",
+      "authors": [
+        "Ma X",
+        "Wang N",
+        "Yan Q",
+        "Li S",
+        "Hu G",
+        "Zhao L",
+        "Xiao R",
+        "Wang M",
+        "Ma N"
+      ],
+      "journal": "Journal of biological engineering",
+      "pubdate": "2025 Nov 11",
+      "doi": "doi: 10.1186/s13036-025-00576-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41219927/",
+      "fetch_date": "2026-03-12T08:53:43.055987"
+    },
+    {
+      "pmid": "41170670",
+      "title": "Toward Machine Learning-Guided CHO Bioprocess and Media Optimization for Improved Titer and Glycosylation.",
+      "authors": [
+        "Walsh I",
+        "Shozui F",
+        "Sato A",
+        "Park U",
+        "Cho H",
+        "Chia C"
+      ],
+      "journal": "Biotechnology journal",
+      "pubdate": "2025 Nov",
+      "doi": "doi: 10.1002/biot.70149",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41170670/",
+      "fetch_date": "2026-03-12T08:53:43.055997"
+    },
+    {
+      "pmid": "41144422",
+      "title": "RNA In situ Hybridization with Sequential Protein Immunofluorescence in Tandem Assay.",
+      "authors": [
+        "Stolley DL",
+        "Casasent AK",
+        "Gamal BT",
+        "Basi A",
+        "Gui X",
+        "Gomez JA",
+        "Cho S",
+        "Rocha L",
+        "Li V",
+        "Huynh T",
+        "Ferri-Borgogno S",
+        "Burks JK"
+      ],
+      "journal": "Journal of visualized experiments : JoVE",
+      "pubdate": "2025 Oct 10",
+      "doi": "doi: 10.3791/68615",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41144422/",
+      "fetch_date": "2026-03-12T08:53:43.056009"
+    },
+    {
+      "pmid": "41131713",
+      "title": "Optimizing monoclonal antibody biosimilar production via transfer and active learning for targeted quality profiles.",
+      "authors": [
+        "Kumar J",
+        "Sultana R",
+        "Saripalla D",
+        "Chopda V",
+        "Mahalingam V",
+        "Adhikary L"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2026 Jan-Feb",
+      "doi": "doi: 10.1002/btpr.70086",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41131713/",
+      "fetch_date": "2026-03-12T08:53:43.056018"
+    },
+    {
+      "pmid": "41099189",
+      "title": "Optimization of amino acid composition in CHO cell perfusion medium using definitive screening design and (1)H NMR-based consumption profiling.",
+      "authors": [
+        "Xu S",
+        "Wan Y",
+        "Shi Y",
+        "Jiao J",
+        "Gao D",
+        "Chen Z",
+        "Wang H",
+        "Qu H"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2026 Jan-Feb",
+      "doi": "doi: 10.1002/btpr.70082",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41099189/",
+      "fetch_date": "2026-03-12T08:53:43.056029"
+    },
+    {
+      "pmid": "41092926",
+      "title": "Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+      "authors": [
+        "GBD 2023 Disease and Injury and Risk Factor Collaborators"
+      ],
+      "journal": "Lancet (London, England)",
+      "pubdate": "2025 Oct 18",
+      "doi": "doi: 10.1016/S0140-6736(25)01637-X",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41092926/",
+      "fetch_date": "2026-03-12T08:53:43.056036"
+    },
+    {
+      "pmid": "41077193",
+      "title": "Beyond tyrosine feeding: A novel fed-batch cultivation strategy based on tyrosine metabolic engineering in recombinant CHO cells.",
+      "authors": [
+        "Cao L",
+        "Zhao L",
+        "Ye Q",
+        "Tan WS"
+      ],
+      "journal": "Journal of biotechnology",
+      "pubdate": "2026 Jan",
+      "doi": "doi: 10.1016/j.jbiotec.2025.10.003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41077193/",
+      "fetch_date": "2026-03-12T08:53:43.056045"
+    },
+    {
+      "pmid": "40999471",
+      "title": "Optimizing the in vitro neuronal microenvironment to mitigate phototoxicity in live-cell imaging.",
+      "authors": [
+        "Hoffmann CR",
+        "Maksour S",
+        "Clarke JE",
+        "Daniszewski M",
+        "Houghton FJ",
+        "Wang J",
+        "Pébay A",
+        "Gleeson PA",
+        "Dottori M",
+        "Cho E",
+        "Zalesky A",
+        "Di Biase MA"
+      ],
+      "journal": "Stem cell research & therapy",
+      "pubdate": "2025 Sep 25",
+      "doi": "doi: 10.1186/s13287-025-04591-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40999471/",
+      "fetch_date": "2026-03-12T08:53:43.056060"
+    },
+    {
+      "pmid": "40996342",
+      "title": "Secondary feed filtration and storage conditions influence trace element availability and process performance at 2000 L scale.",
+      "authors": [
+        "Jain AR",
+        "Reyes JS",
+        "Yuan C",
+        "Zhao Q",
+        "Sun R",
+        "Zhou H",
+        "Sisodiya V",
+        "Rajendra Y"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2026 Jan-Feb",
+      "doi": "doi: 10.1002/btpr.70071",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40996342/",
+      "fetch_date": "2026-03-12T08:53:43.056073"
+    },
+    {
+      "pmid": "40974662",
+      "title": "Efficient host cell protein clearance: A study of membrane adsorbers and resins in biopharmaceutical processes.",
+      "authors": [
+        "Šprager E",
+        "Reisinger V",
+        "Sommer J",
+        "Lekić T",
+        "Pucelj N",
+        "Kljun T",
+        "Lunder M",
+        "Vašl J",
+        "Bratkovič T"
+      ],
+      "journal": "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
+      "pubdate": "2025 Dec 15",
+      "doi": "doi: 10.1016/j.jchromb.2025.124796",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40974662/",
+      "fetch_date": "2026-03-12T08:53:43.056085"
+    },
+    {
+      "pmid": "40810344",
+      "title": "Machine learning-driven optimization of culture conditions and media components to mitigate charge heterogeneity in monoclonal antibody production: current advances and future perspectives.",
+      "authors": [
+        "Kavoni H",
+        "Shahidi Pour Savizi I",
+        "Gopalakrishnan S",
+        "Lewis NE",
+        "Shojaosadati SA"
+      ],
+      "journal": "mAbs",
+      "pubdate": "2025 Dec",
+      "doi": "doi: 10.1080/19420862.2025.2547084",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40810344/",
+      "fetch_date": "2026-03-12T08:53:43.056096"
+    },
+    {
+      "pmid": "40767396",
+      "title": "Methylcellulose has synergistic growth benefits with poloxamer in suspension CHO culture.",
+      "authors": [
+        "Katz JS",
+        "Jordan S",
+        "Flannery H",
+        "Rigdon C",
+        "Serrano S",
+        "Burgett K",
+        "Van Bruggen S",
+        "Peacock J",
+        "Joshi A",
+        "Uplekar S",
+        "Wolfe L"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2025 Nov-Dec",
+      "doi": "doi: 10.1002/btpr.70064",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40767396/",
+      "fetch_date": "2026-03-12T08:53:43.056110"
+    },
+    {
+      "pmid": "40756645",
+      "title": "Cell specific perfusion rates drive growth dynamics and metabolism in CHO N-1 perfusion processes independent of perfusion rate control method.",
+      "authors": [
+        "Walther J",
+        "Ribeiro da Costa T",
+        "Winkler L",
+        "Schaub J",
+        "Habicher T"
+      ],
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "pubdate": "2025",
+      "doi": "doi: 10.3389/fbioe.2025.1608889",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40756645/",
+      "fetch_date": "2026-03-12T08:53:43.056120"
+    },
+    {
+      "pmid": "40749158",
+      "title": "Recombinase-Mediated Cassette Exchange-Based CRISPR Activation Screening Identifies Hyperosmotic Stress-Resistant Genes in Chinese Hamster Ovary Cells.",
+      "authors": [
+        "Baek M",
+        "Kweon S",
+        "Kim Y",
+        "Lewis NE",
+        "Lee JS",
+        "Lee GM"
+      ],
+      "journal": "ACS synthetic biology",
+      "pubdate": "2025 Aug 15",
+      "doi": "doi: 10.1021/acssynbio.5c00268",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40749158/",
+      "fetch_date": "2026-03-12T08:53:43.056131"
+    },
+    {
+      "pmid": "40740490",
+      "title": "Integration of Bayesian optimization and solution thermodynamics to optimize media design for mammalian biomanufacturing.",
+      "authors": [
+        "Ndahiro N",
+        "Ma E",
+        "Bertalan T",
+        "Donohue M",
+        "Kevrekidis Y",
+        "Betenbaugh M"
+      ],
+      "journal": "iScience",
+      "pubdate": "2025 Aug 15",
+      "doi": "doi: 10.1016/j.isci.2025.112944",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40740490/",
+      "fetch_date": "2026-03-12T08:53:43.056141"
+    },
+    {
+      "pmid": "40716669",
+      "title": "Biology-aware machine learning for culture medium optimization.",
+      "authors": [
+        "Hashizume T",
+        "Ying BW"
+      ],
+      "journal": "New biotechnology",
+      "pubdate": "2025 Nov 25",
+      "doi": "doi: 10.1016/j.nbt.2025.07.006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40716669/",
+      "fetch_date": "2026-03-12T08:53:43.056150"
+    },
+    {
+      "pmid": "40677243",
+      "title": "Wheels turning: CHO cell modeling moves into a digital biomanufacturing era: Subtitle: CHO Metabolic Modeling.",
+      "authors": [
+        "Ranpura S",
+        "Maralingannavar V",
+        "Gheorghe AG",
+        "Ma E",
+        "Morrissey J",
+        "Betenbaugh MJ",
+        "Demirhan D"
+      ],
+      "journal": "Computational and structural biotechnology journal",
+      "pubdate": "2025",
+      "doi": "doi: 10.1016/j.csbj.2025.06.035",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40677243/",
+      "fetch_date": "2026-03-12T08:53:43.056161"
+    },
+    {
+      "pmid": "40642151",
+      "title": "Real-Time Monitoring in Biomanufacturing with Graphene Field-Effect Transistor Sensors: Detection of pH, Glucose, and Antibodies.",
+      "authors": [
+        "Ban DK",
+        "Hajian R",
+        "Chan M",
+        "Abdolrahimi S",
+        "Barron F",
+        "Datta S",
+        "Aran K"
+      ],
+      "journal": "GEN biotechnology",
+      "pubdate": "2024 Dec",
+      "doi": "doi: 10.1089/genbio.2024.0043",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40642151/",
+      "fetch_date": "2026-03-12T08:53:43.056172"
+    },
+    {
+      "pmid": "40634105",
+      "title": "Optimizing Prebiotic Saccharides in Culture Medium for the Bifidobacteria-Derived Extracellular Vesicles as Biomaterial Immunoadjuvant.",
+      "authors": [
+        "Morishita M",
+        "Atari M",
+        "Masuda K",
+        "Higashiwaki K",
+        "Sakata C",
+        "Waku T",
+        "Katsumi H",
+        "Yamamoto A"
+      ],
+      "journal": "Biological & pharmaceutical bulletin",
+      "pubdate": "2025",
+      "doi": "doi: 10.1248/bpb.b25-00141",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40634105/",
+      "fetch_date": "2026-03-12T08:53:43.056184"
+    },
+    {
+      "pmid": "40611694",
+      "title": "Novel Data-Driven Mechanistic Modeling of Untargeted Metabolome Data Reveals Feed Component Effects in CHO Cell Bioprocess Using Column Generation-Based EFMs.",
+      "authors": [
+        "Mäkinen ME",
+        "Zacharouli M",
+        "Särnlund S",
+        "Jiang Y",
+        "Chotteau V"
+      ],
+      "journal": "Biotechnology journal",
+      "pubdate": "2025 Jul",
+      "doi": "doi: 10.1002/biot.70008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40611694/",
+      "fetch_date": "2026-03-12T08:53:43.056194"
+    },
+    {
+      "pmid": "40405416",
+      "title": "Process development for production of non-originator NISTmAb from CHO and NS0 cell lines.",
+      "authors": [
+        "Fratz-Berilla EJ",
+        "Azer N",
+        "Bush X",
+        "Kim J",
+        "Kohnhorst C"
+      ],
+      "journal": "mAbs",
+      "pubdate": "2025 Dec",
+      "doi": "doi: 10.1080/19420862.2025.2505088",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40405416/",
+      "fetch_date": "2026-03-12T08:53:43.056205"
+    },
+    {
+      "pmid": "40312489",
+      "title": "Low-cost food-grade alternatives for serum albumins in FBS-free cell culture media.",
+      "authors": [
+        "Schenzle L",
+        "Egger K",
+        "Spangl B",
+        "Hussein M",
+        "Ebrahimian A",
+        "Kuehnel H",
+        "Ferreira FC",
+        "Marques DMC",
+        "Berchtold B",
+        "Borth N",
+        "Fuchs A",
+        "Pichler H"
+      ],
+      "journal": "Scientific reports",
+      "pubdate": "2025 May 1",
+      "doi": "doi: 10.1038/s41598-025-99603-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40312489/",
+      "fetch_date": "2026-03-12T08:53:43.056222"
+    },
+    {
+      "pmid": "40287131",
+      "title": "Differential polyamine metabolism in CHO cell lines: Insights into cell growth and antibody quality.",
+      "authors": [
+        "Kang DE",
+        "Senthilkumar D",
+        "Jeon JH",
+        "Ganapathy T",
+        "You WK",
+        "Lakshmanan M",
+        "Hong JK"
+      ],
+      "journal": "New biotechnology",
+      "pubdate": "2025 Sep 25",
+      "doi": "doi: 10.1016/j.nbt.2025.04.007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40287131/",
+      "fetch_date": "2026-03-12T08:53:43.056234"
+    },
+    {
+      "pmid": "40286865",
+      "title": "Modulating fatty acid metabolism and composition of CHO cells by feeding high levels of fatty acids complexed using methyl-β-cyclodextrin.",
+      "authors": [
+        "Priem B",
+        "Cai X",
+        "Hong YJ",
+        "Gilmore K",
+        "Deng Z",
+        "Chen S",
+        "Naik HM",
+        "Betenbaugh MJ",
+        "Antoniewicz MR"
+      ],
+      "journal": "Metabolic engineering",
+      "pubdate": "2025 Sep",
+      "doi": "doi: 10.1016/j.ymben.2025.04.005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40286865/",
+      "fetch_date": "2026-03-12T08:53:43.056244"
+    },
+    {
+      "pmid": "40219633",
+      "title": "Flux Sampling Suggests Metabolic Signatures of High Antibody-Producing CHO Cells.",
+      "authors": [
+        "Meeson KE",
+        "Watson J",
+        "Rosser S",
+        "Hawke E",
+        "Pitt A",
+        "Moses T",
+        "Pybus L",
+        "Rattray M",
+        "Dickson AJ",
+        "Schwartz JM"
+      ],
+      "journal": "Biotechnology and bioengineering",
+      "pubdate": "2025 Jul",
+      "doi": "doi: 10.1002/bit.28982",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40219633/",
+      "fetch_date": "2026-03-12T08:53:43.056255"
+    },
+    {
+      "pmid": "40191306",
+      "title": "Laser Processing of YSZ Ceramics without Cracking: The Impact of Solvent Selection on Performance.",
+      "authors": [
+        "Usman M",
+        "Katsumata KI",
+        "Yamada T"
+      ],
+      "journal": "ACS omega",
+      "pubdate": "2025 Apr 1",
+      "doi": "doi: 10.1021/acsomega.4c10556",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40191306/",
+      "fetch_date": "2026-03-12T08:53:43.056265"
+    },
+    {
+      "pmid": "40189954",
+      "title": "Deep-learning-assisted medium optimization improves hyaluronic acid production by Streptococcus zooepidemicus.",
+      "authors": [
+        "Watanabe K",
+        "Kawai Y",
+        "Kagenishi T",
+        "Chiou TY",
+        "Konishi M"
+      ],
+      "journal": "Journal of bioscience and bioengineering",
+      "pubdate": "2025 Jun",
+      "doi": "doi: 10.1016/j.jbiosc.2025.03.001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40189954/",
+      "fetch_date": "2026-03-12T08:53:43.056276"
+    },
+    {
+      "pmid": "40124126",
+      "title": "Effect of different cell culture media on the production and glycosylation of a monoclonal antibody from a CHO cell line.",
+      "authors": [
+        "Lee J",
+        "Ortega-Rodriguez U",
+        "Madhavarao CN",
+        "Ju T",
+        "O'Connor T",
+        "Ashraf M",
+        "Yoon S"
+      ],
+      "journal": "Cytotechnology",
+      "pubdate": "2025 Jun",
+      "doi": "doi: 10.1007/s10616-025-00733-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40124126/",
+      "fetch_date": "2026-03-12T08:53:43.056289"
+    },
+    {
+      "pmid": "40103501",
+      "title": "Tunable B-Doped Cobalt Phosphide Nanosheets Engineered via Phosphorus Activation of Co-MOFs for High Efficiency Alkaline Water-Splitting.",
+      "authors": [
+        "Cha DC",
+        "Seok JH",
+        "Cho SC",
+        "Singh M",
+        "Singh TI",
+        "Lee SU",
+        "Lee S"
+      ],
+      "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+      "pubdate": "2025 Aug",
+      "doi": "doi: 10.1002/smll.202500334",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40103501/",
+      "fetch_date": "2026-03-12T08:53:43.056300"
+    },
+    {
+      "pmid": "40064687",
+      "title": "Bioprocess biomarker identification and diagnosis for industrial mAb production based on metabolic profiling and multivariate data analysis.",
+      "authors": [
+        "Shi Y",
+        "Wan Y",
+        "Yang J",
+        "Lu Y",
+        "Xie X",
+        "Pan J",
+        "Wang H",
+        "Qu H"
+      ],
+      "journal": "Bioprocess and biosystems engineering",
+      "pubdate": "2025 May",
+      "doi": "doi: 10.1007/s00449-025-03142-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40064687/",
+      "fetch_date": "2026-03-12T08:53:43.056314"
+    },
+    {
+      "pmid": "39968655",
+      "title": "Improving outcomes in intensified processing via optimization of the cell line development workflow.",
+      "authors": [
+        "Balassi V",
+        "Otto M",
+        "Kretzmer C",
+        "Petersen A",
+        "McLaurin C",
+        "Mahadevan J",
+        "Gustin J",
+        "Borgschulte T",
+        "Razafsky D"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2025 May-Jun",
+      "doi": "doi: 10.1002/btpr.70003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39968655/",
+      "fetch_date": "2026-03-12T08:53:43.056328"
+    },
+    {
+      "pmid": "39964913",
+      "title": "Nanoscale Resolution Imaging of Whole Mouse Embryos Using Expansion Microscopy.",
+      "authors": [
+        "Sim J",
+        "Park CE",
+        "Cho I",
+        "Min K",
+        "Eom M",
+        "Han S",
+        "Jeon H",
+        "Cho ES",
+        "Lee Y",
+        "Yun YH",
+        "Lee S",
+        "Cheon DH",
+        "Kim J",
+        "Kim M",
+        "Cho HJ",
+        "Park JW",
+        "Kumar A",
+        "Chong Y",
+        "Kang JS",
+        "Piatkevich KD",
+        "Jung EE",
+        "Kang DS",
+        "Kwon SK",
+        "Kim J",
+        "Yoon KJ",
+        "Lee JS",
+        "Kim CH",
+        "Choi M",
+        "Kim JW",
+        "Song MR",
+        "Choi HJ",
+        "Boyden ES",
+        "Yoon YG",
+        "Chang JB"
+      ],
+      "journal": "ACS nano",
+      "pubdate": "2025 Mar 4",
+      "doi": "doi: 10.1021/acsnano.4c14791",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39964913/",
+      "fetch_date": "2026-03-12T08:53:43.056352"
+    },
+    {
+      "pmid": "39941092",
+      "title": "From Cell Clones to Recombinant Protein Product Heterogeneity in Chinese Hamster Ovary Cell Systems.",
+      "authors": [
+        "Wang C",
+        "Guo X",
+        "Wang W",
+        "Li JX",
+        "Wang TY"
+      ],
+      "journal": "International journal of molecular sciences",
+      "pubdate": "2025 Feb 4",
+      "doi": "doi: 10.3390/ijms26031324",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39941092/",
+      "fetch_date": "2026-03-12T08:53:43.056363"
+    },
+    {
+      "pmid": "39901854",
+      "title": "Optimization of Culture Conditions to Improve Follicle-Stimulating Hormone Production by CHO-DG44 Cells in Serum-Free Medium.",
+      "authors": [
+        "Ghobadian H",
+        "Roshanzamir K",
+        "Kouhi Abdolabadi M",
+        "Ostadi H",
+        "Zati Keikha R",
+        "Dolatkhah Baghan M",
+        "Talebkhan Y",
+        "Torkashvand F"
+      ],
+      "journal": "Iranian biomedical journal",
+      "pubdate": "2024 Sep 1",
+      "doi": "doi: 10.61186/ibj.4160",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39901854/",
+      "fetch_date": "2026-03-12T08:53:43.056375"
+    },
+    {
+      "pmid": "39841264",
+      "title": "N-Glycosylation modulators for targeted manipulation of glycosylation for monoclonal antibodies.",
+      "authors": [
+        "Gangwar N",
+        "Dixit N",
+        "Rathore AS"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "pubdate": "2025 Jan 22",
+      "doi": "doi: 10.1007/s00253-025-13405-5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39841264/",
+      "fetch_date": "2026-03-12T08:53:43.056384"
+    },
+    {
+      "pmid": "39803414",
+      "title": "Evaluating the impact of media and feed combinations on CHO cell culture performance and monoclonal antibody (trastuzumab) production.",
+      "authors": [
+        "Gyorgypal A",
+        "Chaturvedi A",
+        "Chopda V",
+        "Zhang H",
+        "Chundawat SPS"
+      ],
+      "journal": "Cytotechnology",
+      "pubdate": "2025 Feb",
+      "doi": "doi: 10.1007/s10616-024-00690-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39803414/",
+      "fetch_date": "2026-03-12T08:53:43.056394"
+    },
+    {
+      "pmid": "39796251",
+      "title": "Enhancement Strategy for Protocatechuic Acid Production Using Corynebacterium glutamicum with Focus on Continuous Fermentation Scale-Up and Cytotoxicity Management.",
+      "authors": [
+        "Chung J",
+        "Shin W",
+        "Park C",
+        "Cho J"
+      ],
+      "journal": "International journal of molecular sciences",
+      "pubdate": "2025 Jan 5",
+      "doi": "doi: 10.3390/ijms26010396",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39796251/",
+      "fetch_date": "2026-03-12T08:53:43.056404"
+    },
+    {
+      "pmid": "39623595",
+      "title": "Cell line development and bioreactor process optimization for an atezolizumab biosimilar.",
+      "authors": [
+        "Kuyucu AZ",
+        "Sayili D",
+        "Orkut R",
+        "Mert O",
+        "Tarman İO",
+        "Lulaci B",
+        "Sencer AM",
+        "Pekmezci AK",
+        "Avci ME",
+        "Kalyoncu S",
+        "Inan M"
+      ],
+      "journal": "Biotechnology and applied biochemistry",
+      "pubdate": "2025 Aug",
+      "doi": "doi: 10.1002/bab.2704",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39623595/",
+      "fetch_date": "2026-03-12T08:53:43.056419"
+    },
+    {
+      "pmid": "39571767",
+      "title": "Recent advances in culture medium design for enhanced production of monoclonal antibodies in CHO cells: A comparative study of machine learning and systems biology approaches.",
+      "authors": [
+        "Kavoni H",
+        "Savizi ISP",
+        "Lewis NE",
+        "Shojaosadati SA"
+      ],
+      "journal": "Biotechnology advances",
+      "pubdate": "2025 Jan-Feb",
+      "doi": "doi: 10.1016/j.biotechadv.2024.108480",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39571767/",
+      "fetch_date": "2026-03-12T08:53:43.056429"
+    },
+    {
+      "pmid": "39565292",
+      "title": "A multimodal digital microfluidic testing platform for antibody-producing cell lines.",
+      "authors": [
+        "Lant JT",
+        "Frasheri J",
+        "Kwon T",
+        "Tsang CMN",
+        "Li BB",
+        "Decombe S",
+        "Sklavounos AA",
+        "Akbari S",
+        "Wheeler AR"
+      ],
+      "journal": "Lab on a chip",
+      "pubdate": "2024 Dec 3",
+      "doi": "doi: 10.1039/d4lc00816b",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39565292/",
+      "fetch_date": "2026-03-12T08:53:43.056442"
+    },
+    {
+      "pmid": "39513375",
+      "title": "Genome-Scale Modeling of CHO Cells Unravel the Critical Role of Asparagine in Cell Culture Feed Media.",
+      "authors": [
+        "Pang KT",
+        "Hong YF",
+        "Shozui F",
+        "Furomitsu S",
+        "Myint M",
+        "Ho YS",
+        "Silberberg YR",
+        "Walsh I",
+        "Lakshmanan M"
+      ],
+      "journal": "Biotechnology journal",
+      "pubdate": "2024 Nov",
+      "doi": "doi: 10.1002/biot.202400072",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39513375/",
+      "fetch_date": "2026-03-12T08:53:43.056456"
+    },
+    {
+      "pmid": "39481535",
+      "title": "Beyond viability: Advancing CHO cell culture process strategies to modulate host cell protein levels.",
+      "authors": [
+        "Sahoo A",
+        "Devenney K",
+        "Nicolas MA",
+        "Zill N",
+        "Gupta B",
+        "Madabhushi SR"
+      ],
+      "journal": "New biotechnology",
+      "pubdate": "2024 Dec 25",
+      "doi": "doi: 10.1016/j.nbt.2024.10.003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39481535/",
+      "fetch_date": "2026-03-12T08:53:43.056467"
+    },
+    {
+      "pmid": "39460910",
+      "title": "Serum-Free and Protein-Free Media for the Cultivation of Recombinant Chinese Hamster Ovary (CHO) Cell Lines.",
+      "authors": [
+        "Capella Roca B",
+        "Meiller J",
+        "Doolan P",
+        "Clynes M"
+      ],
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "pubdate": "2025",
+      "doi": "doi: 10.1007/978-1-0716-4104-0_1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39460910/",
+      "fetch_date": "2026-03-12T08:53:43.056476"
+    },
+    {
+      "pmid": "39435744",
+      "title": "Elevated endoplasmic reticulum pH is associated with high growth and bisAb aggregation in CHO cells.",
+      "authors": [
+        "McFarland KS",
+        "Hegadorn K",
+        "Betenbaugh MJ",
+        "Handlogten MW"
+      ],
+      "journal": "Biotechnology and bioengineering",
+      "pubdate": "2025 Jan",
+      "doi": "doi: 10.1002/bit.28866",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39435744/",
+      "fetch_date": "2026-03-12T08:53:43.056486"
+    },
+    {
+      "pmid": "39389363",
+      "title": "Monitoring small-scale bioreactor studies for media development using polarized total synchronous fluorescence spectroscopy (pTSFS) and synchronous light scattering (SyLS).",
+      "authors": [
+        "Boateng BO",
+        "Ryder AG"
+      ],
+      "journal": "Journal of biotechnology",
+      "pubdate": "2024 Nov 20",
+      "doi": "doi: 10.1016/j.jbiotec.2024.10.002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39389363/",
+      "fetch_date": "2026-03-12T08:53:43.056493"
+    },
+    {
+      "pmid": "39365816",
+      "title": "Comprehensive stable-isotope tracing of glucose and amino acids identifies metabolic by-products and their sources in CHO cell culture.",
+      "authors": [
+        "Gonzalez JE",
+        "Naik HM",
+        "Oates EH",
+        "Dhara VG",
+        "McConnell BO",
+        "Kumar S",
+        "Betenbaugh MJ",
+        "Antoniewicz MR"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "pubdate": "2024 Oct 8",
+      "doi": "doi: 10.1073/pnas.2403033121",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39365816/",
+      "fetch_date": "2026-03-12T08:53:43.056504"
+    },
+    {
+      "pmid": "39365308",
+      "title": "Improvement strategies for transient gene expression in mammalian cells.",
+      "authors": [
+        "Fu Y",
+        "Han Z",
+        "Cheng W",
+        "Niu S",
+        "Wang T",
+        "Wang X"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "pubdate": "2024 Oct 4",
+      "doi": "doi: 10.1007/s00253-024-13315-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39365308/",
+      "fetch_date": "2026-03-12T08:53:43.056517"
+    },
+    {
+      "pmid": "39291457",
+      "title": "Hybrid modeling for in silico optimization of a dynamic perfusion cell culture process.",
+      "authors": [
+        "Agarwal P",
+        "McCready C",
+        "Ng SK",
+        "Ng JC",
+        "van de Laar J",
+        "Pennings M",
+        "Zijlstra G"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2025 Jan-Feb",
+      "doi": "doi: 10.1002/btpr.3503",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39291457/",
+      "fetch_date": "2026-03-12T08:53:43.056529"
+    },
+    {
+      "pmid": "39167557",
+      "title": "Evaluation of NAD(+) precursors for improved metabolism and productivity of antibody-producing CHO cell.",
+      "authors": [
+        "Han HJ",
+        "Kim H",
+        "Yu HG",
+        "Park JU",
+        "Bae JH",
+        "Lee JH",
+        "Hong JK",
+        "Baik JY"
+      ],
+      "journal": "Biotechnology journal",
+      "pubdate": "2024 Aug",
+      "doi": "doi: 10.1002/biot.202400311",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39167557/",
+      "fetch_date": "2026-03-12T08:53:43.056543"
+    },
+    {
+      "pmid": "39167554",
+      "title": "Innovative fixed bed bioreactor platform: Enabling linearly scalable adherent cell biomanufacturing with real-time biomass prediction from nutrient consumption.",
+      "authors": [
+        "Goral VN",
+        "Hong Y",
+        "Scibek JJ",
+        "Sun Y",
+        "Romeo LE",
+        "Rao A",
+        "Manning D",
+        "Zhou Y",
+        "Schultes JA",
+        "Tjong V",
+        "Pikula D",
+        "Krebs KA",
+        "Ferrie AM",
+        "Kramel S",
+        "Weber JL",
+        "Upton TM",
+        "Fang Y",
+        "Melkoumian Z"
+      ],
+      "journal": "Biotechnology journal",
+      "pubdate": "2024 Aug",
+      "doi": "doi: 10.1002/biot.202300635",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39167554/",
+      "fetch_date": "2026-03-12T08:53:43.056562"
+    },
+    {
+      "pmid": "39162863",
+      "title": "Completely noninvasive multi-analyte monitoring system for cell culture processes.",
+      "authors": [
+        "Rahmatnejad V",
+        "Tolosa M",
+        "Ge X",
+        "Rao G"
+      ],
+      "journal": "Biotechnology letters",
+      "pubdate": "2024 Dec",
+      "doi": "doi: 10.1007/s10529-024-03521-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39162863/",
+      "fetch_date": "2026-03-12T08:53:43.056573"
+    },
+    {
+      "pmid": "39047894",
+      "title": "Multi-omic characterization of antibody-producing CHO cell lines elucidates metabolic reprogramming and nutrient uptake bottlenecks.",
+      "authors": [
+        "Gopalakrishnan S",
+        "Johnson W",
+        "Valderrama-Gomez MA",
+        "Icten E",
+        "Tat J",
+        "Lay F",
+        "Diep J",
+        "Gomez N",
+        "Stevens J",
+        "Schlegel F",
+        "Rolandi P",
+        "Kontoravdi C",
+        "Lewis NE"
+      ],
+      "journal": "Metabolic engineering",
+      "pubdate": "2024 Sep",
+      "doi": "doi: 10.1016/j.ymben.2024.07.009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39047894/",
+      "fetch_date": "2026-03-12T08:53:43.056589"
+    },
+    {
+      "pmid": "39016470",
+      "title": "Enhanced efficacy of glycoengineered rice cell-produced trastuzumab.",
+      "authors": [
+        "Shin JH",
+        "Oh S",
+        "Jang MH",
+        "Lee SY",
+        "Min C",
+        "Eu YJ",
+        "Begum H",
+        "Kim JC",
+        "Lee GR",
+        "Oh HB",
+        "Paul MJ",
+        "Ma JK",
+        "Gwak HS",
+        "Youn H",
+        "Kim SR"
+      ],
+      "journal": "Plant biotechnology journal",
+      "pubdate": "2024 Nov",
+      "doi": "doi: 10.1111/pbi.14429",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39016470/",
+      "fetch_date": "2026-03-12T08:53:43.056608"
+    },
+    {
+      "pmid": "38924316",
+      "title": "Modeling of cell cultivation for monoclonal antibody production processes considering lactate metabolic shifts.",
+      "authors": [
+        "Okamura K",
+        "Badr S",
+        "Ichida Y",
+        "Yamada A",
+        "Sugiyama H"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2024 Nov-Dec",
+      "doi": "doi: 10.1002/btpr.3486",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38924316/",
+      "fetch_date": "2026-03-12T08:53:43.056619"
+    },
+    {
+      "pmid": "38846932",
+      "title": "Stability-Enhanced Cisplatin Gold Nanoparticles As Therapeutic Anticancer Agents.",
+      "authors": [
+        "Cho TJ",
+        "Reipa V",
+        "Gorham JM",
+        "Pettibone JM",
+        "Tona A",
+        "Johnston-Peck A",
+        "Liu J",
+        "Nelson BC",
+        "Hackley VA"
+      ],
+      "journal": "ACS applied nano materials",
+      "pubdate": "2024",
+      "doi": "doi: 10.1021/acsanm.3c04935",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38846932/",
+      "fetch_date": "2026-03-12T08:53:43.056632"
+    },
+    {
+      "pmid": "38719621",
+      "title": "Enhancement of rAAV titers via inhibition of the interferon signaling cascade in transfected HEK293 suspension cultures.",
+      "authors": [
+        "Kahlig CI",
+        "Moser S",
+        "Micutkova L",
+        "Grillari J",
+        "Kraus B",
+        "Hernandez Bort JA"
+      ],
+      "journal": "Biotechnology journal",
+      "pubdate": "2024 May",
+      "doi": "doi: 10.1002/biot.202300672",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38719621/",
+      "fetch_date": "2026-03-12T08:53:43.056644"
+    },
+    {
+      "pmid": "38714901",
+      "title": "Optimized quantification of fatty acids in complex media using advanced analytical techniques.",
+      "authors": [
+        "Jeon E",
+        "Park M",
+        "Mojumdar A",
+        "Kim YH",
+        "Choi JS",
+        "Cho K"
+      ],
+      "journal": "Rapid communications in mass spectrometry : RCM",
+      "pubdate": "2024 Jul 30",
+      "doi": "doi: 10.1002/rcm.9764",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38714901/",
+      "fetch_date": "2026-03-12T08:53:43.056654"
+    },
+    {
+      "pmid": "38656382",
+      "title": "Explainable AI for CHO cell culture media optimization and prediction of critical quality attribute.",
+      "authors": [
+        "Gangwar N",
+        "Balraj K",
+        "Rathore AS"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "pubdate": "2024 Apr 24",
+      "doi": "doi: 10.1007/s00253-024-13147-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38656382/",
+      "fetch_date": "2026-03-12T08:53:43.056666"
+    },
+    {
+      "pmid": "38655345",
+      "title": "A primary culture method for the easy, efficient, and effective acquisition of oligodendrocyte lineage cells from neonatal rodent brains.",
+      "authors": [
+        "Kim H",
+        "Kim BJ",
+        "Koh S",
+        "Cho HJ",
+        "Jin X",
+        "Kim BG",
+        "Choi JY"
+      ],
+      "journal": "Heliyon",
+      "pubdate": "2024 Apr 30",
+      "doi": "doi: 10.1016/j.heliyon.2024.e29359",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38655345/",
+      "fetch_date": "2026-03-12T08:53:43.056678"
+    },
+    {
+      "pmid": "38639160",
+      "title": "Development of generic metabolic Raman calibration models using solution titration in aqueous phase and data augmentation for in-line cell culture analysis.",
+      "authors": [
+        "Zhang Z",
+        "Lang Z",
+        "Chen G",
+        "Zhou H",
+        "Zhou W"
+      ],
+      "journal": "Biotechnology and bioengineering",
+      "pubdate": "2024 Jul",
+      "doi": "doi: 10.1002/bit.28717",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38639160/",
+      "fetch_date": "2026-03-12T08:53:43.056689"
+    },
+    {
+      "pmid": "38602130",
+      "title": "Online monitoring of the respiration activity in 96-deep-well microtiter plate Chinese hamster ovary cultures streamlines kill curve experiments.",
+      "authors": [
+        "Neuss A",
+        "von Vegesack N",
+        "Liepelt R",
+        "Büchs J",
+        "Barsett Magnus J"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2024 Sep-Oct",
+      "doi": "doi: 10.1002/btpr.3468",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38602130/",
+      "fetch_date": "2026-03-12T08:53:43.056699"
+    },
+    {
+      "pmid": "38592893",
+      "title": "Acidic Derivatization of Thiols Using Diethyl 2-Methylenemalonate: Thiol-Michael Addition Click Reaction for Simultaneous Analysis of Cysteine and Cystine in Culture Media Using LC-MS/MS.",
+      "authors": [
+        "Harada M",
+        "Kato Y",
+        "Tsuji C",
+        "Higuchi T",
+        "Minami A",
+        "Furomitsu S",
+        "Arakawa A"
+      ],
+      "journal": "Analytical chemistry",
+      "pubdate": "2024 Apr 23",
+      "doi": "doi: 10.1021/acs.analchem.4c00700",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38592893/",
+      "fetch_date": "2026-03-12T08:53:43.056710"
+    },
+    {
+      "pmid": "38460784",
+      "title": "Elucidating uptake and metabolic fate of dipeptides in CHO cell cultures using (13)C labeling experiments and kinetic modeling.",
+      "authors": [
+        "Naik HM",
+        "Cai X",
+        "Ladiwala P",
+        "Reddy JV",
+        "Betenbaugh MJ",
+        "Antoniewicz MR"
+      ],
+      "journal": "Metabolic engineering",
+      "pubdate": "2024 May",
+      "doi": "doi: 10.1016/j.ymben.2024.03.002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38460784/",
+      "fetch_date": "2026-03-12T08:53:43.056720"
+    },
+    {
+      "pmid": "38433040",
+      "title": "High cell density cultivation of Corynebacterium glutamicum by deep learning-assisted medium design and the subsequent feeding strategy.",
+      "authors": [
+        "Konishi M"
+      ],
+      "journal": "Journal of bioscience and bioengineering",
+      "pubdate": "2024 May",
+      "doi": "doi: 10.1016/j.jbiosc.2024.01.018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38433040/",
+      "fetch_date": "2026-03-12T08:53:43.056728"
+    },
+    {
+      "pmid": "38394177",
+      "title": "Successful expansion and cryopreservation of human natural killer cell line NK-92 for clinical manufacturing.",
+      "authors": [
+        "Lee S",
+        "Joo Y",
+        "Lee EJ",
+        "Byeon Y",
+        "Kim JH",
+        "Pyo KH",
+        "Kim YS",
+        "Lim SM",
+        "Kilbride P",
+        "Iyer RK",
+        "Li M",
+        "French MC",
+        "Lee JY",
+        "Kang J",
+        "Byun H",
+        "Cho BC"
+      ],
+      "journal": "PloS one",
+      "pubdate": "2024",
+      "doi": "doi: 10.1371/journal.pone.0294857",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38394177/",
+      "fetch_date": "2026-03-12T08:53:43.056744"
+    },
+    {
+      "pmid": "38393309",
+      "title": "Platform development for high-throughput optimization of perfusion processes: Part I: Implementation of cell bleeds in microwell plates.",
+      "authors": [
+        "Dorn M",
+        "Klottrup-Rees K",
+        "Lee K",
+        "Micheletti M"
+      ],
+      "journal": "Biotechnology and bioengineering",
+      "pubdate": "2024 Jun",
+      "doi": "doi: 10.1002/bit.28682",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38393309/",
+      "fetch_date": "2026-03-12T08:53:43.056755"
+    },
+    {
+      "pmid": "38388790",
+      "title": "Depiction rate of feeding arteries of renal cell carcinoma on four-dimensional computed tomography angiography.",
+      "authors": [
+        "Munetomo K",
+        "Matsui Y",
+        "Tomita K",
+        "Uka M",
+        "Umakoshi N",
+        "Kawabata T",
+        "Morimitsu Y",
+        "Iguchi T",
+        "Hiraki T"
+      ],
+      "journal": "Japanese journal of radiology",
+      "pubdate": "2024 Jun",
+      "doi": "doi: 10.1007/s11604-024-01538-y",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38388790/",
+      "fetch_date": "2026-03-12T08:53:43.056768"
+    },
+    {
+      "pmid": "38357841",
+      "title": "Leveraging machine learning to dissect role of combinations of amino acids in modulating the effect of zinc on mammalian cell growth.",
+      "authors": [
+        "Pandey U",
+        "Madhugiri I",
+        "Gadgil C",
+        "Gadgil M"
+      ],
+      "journal": "Biotechnology progress",
+      "pubdate": "2024 May-Jun",
+      "doi": "doi: 10.1002/btpr.3436",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38357841/",
+      "fetch_date": "2026-03-12T08:53:43.056778"
+    },
+    {
+      "pmid": "38229404",
+      "title": "Exploring metabolic effects of dipeptide feed media on CHO cell cultures by in silico model-guided flux analysis.",
+      "authors": [
+        "Park SY",
+        "Song J",
+        "Choi DH",
+        "Park U",
+        "Cho H",
+        "Hong BH",
+        "Silberberg YR",
+        "Lee DY"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "pubdate": "2024 Dec",
+      "doi": "doi: 10.1007/s00253-023-12997-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38229404/",
+      "fetch_date": "2026-03-12T08:53:43.056790"
+    },
+    {
+      "pmid": "38163935",
+      "title": "Strategy for Developing a Stable CHO Cell Line that Produces Large Titers of Trastuzumab Antibody.",
+      "authors": [
+        "Boulenouar H",
+        "Bouchoutrouch N",
+        "Amar Y",
+        "Faouzi MEA",
+        "Cherrah Y",
+        "Sefrioui H",
+        "Benhassou HA"
+      ],
+      "journal": "Frontiers in bioscience (Elite edition)",
+      "pubdate": "2023 Nov 7",
+      "doi": "doi: 10.31083/j.fbe1504024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38163935/",
+      "fetch_date": "2026-03-12T08:53:43.056804"
+    },
+    {
+      "pmid": "38154412",
+      "title": "Rapid purification of mAb using protein a membranes yielding high HCP clearance.",
+      "authors": [
+        "Gehrmann N",
+        "Daxbacher A",
+        "Hahn R"
+      ],
+      "journal": "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
+      "pubdate": "2024 Jan 1",
+      "doi": "doi: 10.1016/j.jchromb.2023.123989",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38154412/",
+      "fetch_date": "2026-03-12T08:53:43.056814"
+    },
+    {
+      "pmid": "37975179",
+      "title": "Assessment of a 50:50 mixture of two Bacillus subtilis strains as growth promoters for finishing pigs: productivity improvement and noxious gas reduction.",
+      "authors": [
+        "Song J",
+        "Jeong SJ",
+        "Lim CB",
+        "Kang B",
+        "Oh SS",
+        "Yun G",
+        "Kim IH",
+        "Cho Y"
+      ],
+      "journal": "Journal of animal science",
+      "pubdate": "2023 Jan 3",
+      "doi": "doi: 10.1093/jas/skad374",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37975179/",
+      "fetch_date": "2026-03-12T08:53:43.056825"
+    },
+    {
+      "pmid": "37697106",
+      "title": "A workflow for the development of template-assisted membrane crystallization downstream processing for monoclonal antibody purification.",
+      "authors": [
+        "Rajoub N",
+        "Gerard CJJ",
+        "Pantuso E",
+        "Fontananova E",
+        "Caliandro R",
+        "Belviso BD",
+        "Curcio E",
+        "Nicoletta FP",
+        "Pullen J",
+        "Chen W",
+        "Heng JYY",
+        "Ruane S",
+        "Liddell J",
+        "Alvey N",
+        "Ter Horst JH",
+        "Di Profio G"
+      ],
+      "journal": "Nature protocols",
+      "pubdate": "2023 Oct",
+      "doi": "doi: 10.1038/s41596-023-00869-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37697106/",
+      "fetch_date": "2026-03-12T08:53:43.056837"
+    },
+    {
+      "pmid": "37634287",
+      "title": "In vivo MR imaging for tumor-associated initial neovascularization by supramolecular contrast agents.",
+      "authors": [
+        "Mahara A",
+        "Shima K",
+        "Soni R",
+        "Onishi R",
+        "Hirano Y",
+        "Saito S",
+        "Yamaoka T"
+      ],
+      "journal": "Colloids and surfaces. B, Biointerfaces",
+      "pubdate": "2023 Oct",
+      "doi": "doi: 10.1016/j.colsurfb.2023.113525",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37634287/",
+      "fetch_date": "2026-03-12T08:53:43.056849"
+    },
+    {
+      "pmid": "37606435",
+      "title": "Cost-Effective Protein Production in CHO Cells Following Polyethylenimine-Mediated Gene Delivery Showcased by the Production and Crystallization of Antibody Fabs.",
+      "authors": [
+        "Meskova K",
+        "Martonova K",
+        "Hrasnova P",
+        "Sinska K",
+        "Skrabanova M",
+        "Fialova L",
+        "Njemoga S",
+        "Cehlar O",
+        "Parmar O",
+        "Kolenko P",
+        "Pevala V",
+        "Skrabana R"
+      ],
+      "journal": "Antibodies (Basel, Switzerland)",
+      "pubdate": "2023 Aug 4",
+      "doi": "doi: 10.3390/antib12030051",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37606435/",
+      "fetch_date": "2026-03-12T08:53:43.056863"
+    },
+    {
+      "pmid": "37556427",
+      "title": "Synthesis of (177)Lu-Labeled, Somatostatin-2 Receptor-Targeted Metalla-Assemblies: Challenges in the Design of Supramolecular Radiotherapeutics.",
+      "authors": [
+        "Deiser S",
+        "Drexler M",
+        "Moreno-Alcántar G",
+        "Irl M",
+        "Schmidt C",
+        "Günther T",
+        "Casini A"
+      ],
+      "journal": "Inorganic chemistry",
+      "pubdate": "2023 Dec 18",
+      "doi": "doi: 10.1021/acs.inorgchem.3c02090",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37556427/",
+      "fetch_date": "2026-03-12T08:53:43.056875"
+    },
+    {
+      "pmid": "37337283",
+      "title": "TRPM2-mediated Ca(2+) signaling as a potential therapeutic target in cancer treatment: an updated review of its role in survival and proliferation of cancer cells.",
+      "authors": [
+        "Ali ES",
+        "Chakrabarty B",
+        "Ramproshad S",
+        "Mondal B",
+        "Kundu N",
+        "Sarkar C",
+        "Sharifi-Rad J",
+        "Calina D",
+        "Cho WC"
+      ],
+      "journal": "Cell communication and signaling : CCS",
+      "pubdate": "2023 Jun 19",
+      "doi": "doi: 10.1186/s12964-023-01149-6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37337283/",
+      "fetch_date": "2026-03-12T08:53:43.056887"
+    },
+    {
+      "pmid": "37306528",
+      "title": "Systems biology and metabolic modeling for cultivated meat: A promising approach for cell culture media optimization and cost reduction.",
+      "authors": [
+        "Gomez Romero S",
+        "Boyle N"
+      ],
+      "journal": "Comprehensive reviews in food science and food safety",
+      "pubdate": "2023 Jul",
+      "doi": "doi: 10.1111/1541-4337.13193",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37306528/",
+      "fetch_date": "2026-03-12T08:53:43.056897"
+    },
+    {
+      "pmid": "37257729",
+      "title": "Cell-culture process optimization via model-based predictions of metabolism and protein glycosylation.",
+      "authors": [
+        "Reddy JV",
+        "Raudenbush K",
+        "Papoutsakis ET",
+        "Ierapetritou M"
+      ],
+      "journal": "Biotechnology advances",
+      "pubdate": "2023 Oct",
+      "doi": "doi: 10.1016/j.biotechadv.2023.108179",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37257729/",
+      "fetch_date": "2026-03-12T08:53:43.056905"
+    },
+    {
+      "pmid": "37096798",
+      "title": "Addressing amino acid-derived inhibitory metabolites and enhancing CHO cell culture performance through DOE-guided media modifications.",
+      "authors": [
+        "Ladiwala P",
+        "Dhara VG",
+        "Jenkins J",
+        "Kuang B",
+        "Hoang D",
+        "Yoon S",
+        "Betenbaugh MJ"
+      ],
+      "journal": "Biotechnology and bioengineering",
+      "pubdate": "2023 Sep",
+      "doi": "doi: 10.1002/bit.28403",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37096798/",
+      "fetch_date": "2026-03-12T08:53:43.056918"
+    },
+    {
+      "pmid": "36952333",
+      "title": "Protocol to generate human pluripotent stem cell-derived pancreatic β cells through methionine and zinc deprivation.",
+      "authors": [
+        "Sim EZ",
+        "Enomoto T",
+        "Shiraki N",
+        "Kume S"
+      ],
+      "journal": "STAR protocols",
+      "pubdate": "2023 Mar 22",
+      "doi": "doi: 10.1016/j.xpro.2023.102183",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36952333/",
+      "fetch_date": "2026-03-12T08:53:43.056927"
+    },
+    {
+      "pmid": "36947192",
+      "title": "Enhanced cell growth, production, and mAb quality produced in Chinese hamster ovary-K1 cells by supplementing polyamine in the media.",
+      "authors": [
+        "Kang DE",
+        "An YB",
+        "Kim Y",
+        "Ahn S",
+        "Kim YJ",
+        "Lim JS",
+        "Ryu SH",
+        "Choi H",
+        "Yoo J",
+        "You WK",
+        "Lee DY",
+        "Park J",
+        "Hong M",
+        "Lee GM",
+        "Baik JY",
+        "Hong JK"
+      ],
+      "journal": "Applied microbiology and biotechnology",
+      "pubdate": "2023 May",
+      "doi": "doi: 10.1007/s00253-023-12459-7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36947192/",
+      "fetch_date": "2026-03-12T08:53:43.056943"
+    },
+    {
+      "pmid": "36873352",
+      "title": "Boosting Productivity for Advanced Biomanufacturing by Re-Using Viable Cells.",
+      "authors": [
+        "Reger LN",
+        "Saballus M",
+        "Matuszczyk J",
+        "Kampmann M",
+        "Wijffels RH",
+        "Martens DE",
+        "Niemann J"
+      ],
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "pubdate": "2023",
+      "doi": "doi: 10.3389/fbioe.2023.1106292",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36873352/",
+      "fetch_date": "2026-03-12T08:53:43.056954"
+    },
+    {
+      "pmid": "36822463",
+      "title": "Reconstruction of reverse transsulfuration pathway enables cysteine biosynthesis and enhances resilience to oxidative stress in Chinese Hamster Ovary cells.",
+      "authors": [
+        "Chen Y",
+        "Betenbaugh MJ"
+      ],
+      "journal": "Metabolic engineering",
+      "pubdate": "2023 Mar",
+      "doi": "doi: 10.1016/j.ymben.2023.02.010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36822463/",
+      "fetch_date": "2026-03-12T08:53:43.056962"
+    },
+    {
+      "pmid": "36741761",
+      "title": "Enhancing and stabilizing monoclonal antibody production by Chinese hamster ovary (CHO) cells with optimized perfusion culture strategies.",
+      "authors": [
+        "Liang K",
+        "Luo H",
+        "Li Q"
+      ],
+      "journal": "Frontiers in bioengineering and biotechnology",
+      "pubdate": "2023",
+      "doi": "doi: 10.3389/fbioe.2023.1112349",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36741761/",
+      "fetch_date": "2026-03-12T08:53:43.056971"
+    },
+    {
+      "pmid": "36724839",
+      "title": "A nutrition algorithm to optimize feed and medium composition using genome-scale metabolic models.",
+      "authors": [
+        "Weston BR",
+        "Thiele I"
+      ],
+      "journal": "Metabolic engineering",
+      "pubdate": "2023 Mar",
+      "doi": "doi: 10.1016/j.ymben.2023.01.010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36724839/",
+      "fetch_date": "2026-03-12T08:53:43.056980"
+    },
+    {
+      "pmid": "36713064",
+      "title": "A case study: Correlation of the nutrient composition in Chinese Hamster Ovary cultures with cell growth, antibody titre and quality attributes using multivariate analyses for guiding medium and feed optimization in early upstream process development.",
+      "authors": [
+        "Saldanha M",
+        "Shelar A",
+        "Patil V",
+        "Warke VG",
+        "Dandekar P",
+        "Jain R"
+      ],
+      "journal": "Cytotechnology",
+      "pubdate": "2023 Feb",
+      "doi": "doi: 10.1007/s10616-022-00561-z",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36713064/",
+      "fetch_date": "2026-03-12T08:53:43.056991"
+    },
+    {
+      "pmid": "36691872",
+      "title": "Comparison of the effects of buffalo LIF and mouse LIF on the in vitro culture of buffalo spermatogonia.",
+      "authors": [
+        "Liu YR",
+        "Li WC",
+        "Hu JH",
+        "Li QQ",
+        "Zhang YP",
+        "Lu KH",
+        "Xu HY",
+        "Liang XW",
+        "Lu YQ",
+        "Yang XG"
+      ],
+      "journal": "Cell biology international",
+      "pubdate": "2023 May",
+      "doi": "doi: 10.1002/cbin.11994",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36691872/",
+      "fetch_date": "2026-03-12T08:53:43.057003"
+    },
+    {
+      "pmid": "36562657",
+      "title": "Enhancing CHO cell productivity through a dual selection system using Aspg and Gs in glutamine free medium.",
+      "authors": [
+        "Ha TK",
+        "Òdena A",
+        "Karottki KJC",
+        "Kim CL",
+        "Hefzi H",
+        "Lee GM",
+        "Faustrup Kildegaard H",
+        "Nielsen LK",
+        "Grav LM",
+        "Lewis NE"
+      ],
+      "journal": "Biotechnology and bioengineering",
+      "pubdate": "2023 Apr",
+      "doi": "doi: 10.1002/bit.28318",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36562657/",
+      "fetch_date": "2026-03-12T08:53:43.057016"
+    }
+  ]
+}
